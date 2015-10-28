@@ -4,9 +4,6 @@
 using namespace std;
 
 int main() {
-    int n;
-    cin >> n;
-    n = abs(n);
-    cout << n << endl;
+    cout << "Hello world!" << endl;
     return 0;
 }
